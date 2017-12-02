@@ -98,7 +98,7 @@ header li {
 
 header a {
     display: block;
-    color: #3498db;
+    color: #39b311;
     padding: 10px
 }
 
@@ -107,7 +107,7 @@ header .spacer {
 }
 
 header h2 {
-    color: #3498db;
+    color: #39b311;
     float: left;
     margin: 0;
     margin-left: 3%;
@@ -121,7 +121,7 @@ header a:hover {
 }
 
 header a:focus {
-    color: #3498db;
+    color: #39b311;
     text-decoration: none
 }
 
@@ -144,7 +144,7 @@ header.sticky {
     position: fixed;
     right: 15px;
     top: 10px;
-    color: #3498db;
+    color: #39b311;
     font-size: 1.5em;
     z-index: 20;
     padding: 0 7px;
@@ -161,7 +161,7 @@ header.sticky {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: #3498db
+    color: #39b311
 }
 
 #mobile-menu-close span {
@@ -228,7 +228,7 @@ footer {
 }
 
 .social a:hover {
-    color: #3498db
+    color: #39b311
 }
 
 .btn-rounded-white {
@@ -242,7 +242,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: #3498db;
+    color: #39b311;
     background: #fff;
     text-decoration: none
 }
@@ -272,7 +272,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #3498db
+    background: #39b311
 }
 
 .background-alt {
@@ -432,7 +432,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #3498db;
+    background: #39b311;
     z-index: 0
 }
 
@@ -441,9 +441,9 @@ footer {
     content: '';
     width: 3px;
     height: 40px;
-    background: #3498db;
-    background: -webkit-linear-gradient(top, #3498db, rgba(52, 152, 219, 0));
-    background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+    background: #39b311;
+    background: -webkit-linear-gradient(top, #39b311, rgba(52, 152, 219, 0));
+    background: linear-gradient(to bottom, #39b311, rgba(52, 152, 219, 0));
     top: 100%;
     left: 303px
 }
@@ -490,7 +490,7 @@ footer {
     color: #fff;
     width: 50px;
     height: 50px;
-    background: #3498db;
+    background: #39b311;
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -725,7 +725,7 @@ footer {
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #3498db;
+    color: #39b311;
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     -webkit-transition: .5s ease all;
